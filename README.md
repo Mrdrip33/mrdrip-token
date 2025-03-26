@@ -1,5 +1,3 @@
-# Mr. Drip ($DEWIT) Token Assets
-
 # Mr. Drip ($DEWIT)
 
 **Token Name:** Mr. Drip  
